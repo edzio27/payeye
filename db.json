@@ -1,0 +1,170 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "userdetails": {
+    "name": "Eugeniusz", "username": "Keptia", "avatarUrl": "https://avatarrURL"
+  },
+  "validatepin": {
+  },
+  "verify": {
+      
+  },
+  "transactions": [
+      {
+      "identifier": "3432",
+      "title": "Naka Naka",
+      "date": "2020-07-06T08:39:29+0000",
+      "amount": 100.0,
+      "currency": "PLN",
+      "type": "charge"
+      },
+      {
+      "identifier": "1333",
+      "title": "Żabka",
+      "date": "2020-07-06T08:39:29+0000",
+      "amount": 100.0,
+      "currency": "PLN",
+      "type": "sale"
+      },
+      {
+      "identifier": "2",
+      "title": "Naka Naka",
+      "date": "2020-07-06T08:38:29+0000",
+      "amount": 20.0,
+      "currency": "PLN",
+      "type": "sale"
+      },
+      {
+      "identifier": "3",
+      "title": "Doładowanie konta",
+      "date": "2020-07-06T07:39:29+0000",
+      "amount": 52.0,
+      "currency": "PLN",
+      "type": "charge"
+      },
+      {
+      "identifier": "4",
+      "title": "Naka Naka",
+      "date": "2020-07-06T08:38:29+0000",
+      "amount": 20.0,
+      "currency": "PLN",
+      "type": "sale"
+      },
+      {
+      "identifier": "5",
+      "title": "Andrzej Duda - wsparcie",
+      "date": "2020-07-06T08:38:29+0000",
+      "amount": 20.0,
+      "currency": "PLN",
+      "type": "sale"
+      },
+      {
+      "identifier": "6",
+      "title": "Rondo Cafe",
+      "date": "2020-07-05T08:39:29+0000",
+      "amount": 99.0,
+      "currency": "PLN",
+      "type": "sale"
+      },
+      {
+      "identifier": "7",
+      "title": "Doładowanie konta",
+      "date": "2020-07-06T08:39:29+0000",
+      "amount": 100.0,
+      "currency": "PLN",
+      "type": "charge"
+      },
+      {
+      "identifier": "8",
+      "title": "Żabka",
+      "date": "2020-07-06T08:39:29+0000",
+      "amount": 100.0,
+      "currency": "PLN",
+      "type": "sale"
+      },
+      {
+      "identifier": "9",
+      "title": "Rondo Cafe",
+      "date": "2020-07-05T08:39:29+0000",
+      "amount": 125.0,
+      "currency": "PLN",
+      "type": "sale"
+      },
+      {
+      "identifier": "10",
+      "title": "Żabka",
+      "date": "2020-07-06T08:39:29+0000",
+      "amount": 100.0,
+      "currency": "PLN",
+      "type": "sale"
+      },
+      {
+      "identifier": "11",
+      "title": "Naka Naka",
+      "date": "2020-07-06T08:38:29+0000",
+      "amount": 20.0,
+      "currency": "PLN",
+      "type": "sale"
+      },
+      {
+      "identifier": "12",
+      "title": "Doładowanie konta",
+      "date": "2020-07-06T07:39:29+0000",
+      "amount": 52.0,
+      "currency": "PLN",
+      "type": "charge"
+      },
+      {
+      "identifier": "13",
+      "title": "Doładowanie konta",
+      "date": "2020-07-05T08:39:29+0000",
+      "amount": 300.0,
+      "currency": "PLN",
+      "type": "charge"
+      },
+      {
+      "identifier": "14",
+      "title": "Doładowanie konta",
+      "date": "2020-07-06T08:39:29+0000",
+      "amount": 100.0,
+      "currency": "PLN",
+      "type": "charge"
+      },
+      {
+      "identifier": "15",
+      "title": "Naka Naka",
+      "date": "2020-07-06T08:38:29+0000",
+      "amount": 20.0,
+      "currency": "PLN",
+      "type": "sale"
+      },
+      {
+      "identifier": "16",
+      "title": "Doładowanie konta",
+      "date": "2020-07-06T07:39:29+0000",
+      "amount": 52.0,
+      "currency": "PLN",
+      "type": "charge"
+      },
+      {
+      "identifier": "17",
+      "title": "Doładowanie konta",
+      "date": "2020-07-05T08:39:29+0000",
+      "amount": 300.0,
+      "currency": "PLN",
+      "type": "charge"
+      }
+  ]
+}
